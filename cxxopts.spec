@@ -14,5 +14,5 @@ Lightweight C++ option parser library
 
 %files
 %{_includedir}/cxxopts.hpp
-%{_prefix}/lib/cmake/cxxopts
-%{_prefix}/lib/pkgconfig/cxxopts.pc
+%{_libdir}/cmake/cxxopts
+%{_libdir}/pkgconfig/cxxopts.pc
