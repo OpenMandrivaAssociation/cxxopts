@@ -1,5 +1,5 @@
 Name: cxxopts
-Version: 3.2.0
+Version: 3.2.1
 Release: 1
 Source0: https://github.com/jarro2783/cxxopts/archive/refs/tags/v%{version}.tar.gz
 Summary: Lightweight C++ option parser library
